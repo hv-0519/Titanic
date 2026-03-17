@@ -182,7 +182,7 @@ This project is open source and available under the MIT License.
 
 ## 🔗 Live Demo
 
-Visit the deployed application on Render: [Titanic Survival Predictor](https://titanic-survival-prediction.onrender.com) *(if deployed)*
+Visit the deployed application on Render:https://titanic-2-p866.onrender.com
 
 ## ❓ FAQ
 
